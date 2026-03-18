@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:nobonitasaha042@gmail.com">
     <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-3A7A63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -106,7 +106,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 <a href="https://github.com/NSniha">
   <img src="https://img.shields.io/badge/GitHub-My%20Projects-144D3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:nobonitasaha042@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-3A7A63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
