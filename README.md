@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/github-header.png" alt="Nobonita Saha Niha GitHub Header" width="100%" />
+![nobonita-readme-banner](https://github.com/user-attachments/assets/f55aa6a9-f515-4ddd-a416-a7705283ec02)
+
 
 # Nobonita Saha Niha
 
