@@ -1,10 +1,15 @@
 <div align="center">
 
-<img width="1600" height="420" alt="github-banner" src="https://github.com/user-attachments/assets/f0e93fa8-e84a-42c9-8fe8-efcba584f83a" />
+<img src="./assets/github-banner.png" alt="Nobonita Saha Niha GitHub Banner" width="100%" />
+
+<br />
+<br />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=24&pause=1800&color=0F6B4B&center=true&vCenter=true&width=900&lines=Front-End+Developer;Creating+Clean+%26+Modern+Interfaces;Responsive+Web+Experiences+with+Purpose" alt="Typing SVG" />
 
 </div>
 
-
+---
 
 ## 🧑‍💻 About Me
 
