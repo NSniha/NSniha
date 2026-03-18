@@ -1,143 +1,97 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&text=&fontSize=1)
-
 <div align="center">
-  
-# Hi, I'm Nobonita Saha Niha <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 
-### Front-End Developer
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Nobonita%20Saha%20Niha&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Dhaka,%20Bangladesh&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
 
-I craft **pixel-perfect**, **responsive**, and **high-performance** web interfaces.<br/>
-Based in Dhaka, Bangladesh — building for the world.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/-nobonita--saha--niha-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobonita-saha-niha-04b501214/)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/-NSniha-181717?style=flat&logo=github&logoColor=white)](https://github.com/NSniha)&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=vercel&logoColor=white)](#)
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Crafting+Pixel-Perfect+Interfaces;Turning+Designs+Into+Digital+Reality;Human+Creativity%2C+Robot+Precision+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
 </div>
 
 ---
 
-<br/>
+## 🧑‍💻 About Me
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSniha&layout=compact&theme=transparent&hide_border=true&title_color=0969da&text_color=333" width="320" alt="Top Languages" />
+I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** based in **Dhaka, Bangladesh**, specializing in modern UI design, responsive layouts, and polished digital experiences. I love transforming creative ideas into clean, functional, and beautiful web interfaces.
 
-### `> whoami`
-
-```yaml
-name: Nobonita Saha Niha
-role: Front-End Developer
-location: Dhaka, Bangladesh
-focus:
-  - Modern UI Development
-  - Responsive Web Design
-  - Interactive User Experiences
-  - Landing Pages & Templates
-motto: "Human creativity, robot precision."
-```
-
-<br clear="right"/>
+- 🔭 Currently working on **front-end projects & landing pages**
+- 🌱 Continuously improving my skills in **modern CSS, JavaScript, and responsive design**
+- 🎯 Goal: Build interfaces that users *love* to interact with
+- ⚡ Motto: *"Human creativity, robot precision."*
 
 ---
 
-### Skills & Technologies
-
-**Languages & Markup**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
-
----
-
-### Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🏠 INTERIA Landing Page
-A modern interior design landing page with elegant typography and smooth layouts.
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NSniha/INTERIA_Landing_Page)
-
-`HTML` `CSS` `Responsive Design`
-
-</td>
-<td width="50%">
-
-#### 🌐 Webflow Template
-A professional, production-ready template inspired by Webflow design standards.
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NSniha/Webflow-Template)
-
-`HTML` `CSS` `Web Design`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 📐 Template-01
-A clean, reusable starter template built with semantic HTML and modular CSS.
-
-[![Repo](https://img.shields.io/badge/View_Code-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NSniha/Template-01)
-
-`HTML` `CSS` `Template`
-
-</td>
-<td width="50%">
-
-#### 📂 More Projects
-Explore all 17 repositories — assignments, templates, and experiments.
-
-[![All Repos](https://img.shields.io/badge/View_All_Repos-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/NSniha?tab=repositories)
-
-`HTML` `CSS` `JavaScript` `React`
-
-</td>
-</tr>
-</table>
-
----
-
-### GitHub Analytics
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=NSniha&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&icon_color=0969da&text_color=333&ring_color=0969da" height="165" alt="GitHub Stats" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NSniha&theme=transparent&hide_border=true&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=333&dates=999" height="165" alt="Streak Stats" />
 
-</div>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NSniha&theme=minimal&hide_border=true&color=0969da&line=0969da&point=333&area=true&area_color=ddf4ff" width="95%" alt="Contribution Graph"/>
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**INTERIA Landing Page**](https://github.com/NSniha/INTERIA_Landing_Page) | A sleek, modern interior design landing page with polished UI | `HTML` `CSS` |
+| [**Webflow Template**](https://github.com/NSniha/Webflow-Template) | A professional Webflow-inspired responsive template | `HTML` `CSS` |
+| [**Template-01**](https://github.com/NSniha/Template-01) | A clean, reusable front-end web template | `HTML` `CSS` |
+
+<div align="center">
+  <a href="https://github.com/NSniha?tab=repositories">
+    <img src="https://img.shields.io/badge/View%20All%20Repositories%20→-161b22?style=for-the-badge&logoColor=white" alt="View All Repos"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NSniha&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NSniha&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" height="170" alt="GitHub Stats" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSniha&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="170" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSniha&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NSniha&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22" width="95%" alt="Activity Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NSniha&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobonita-saha-niha-04b501214/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSniha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 </div>
 
@@ -145,12 +99,10 @@ Explore all 17 repositories — assignments, templates, and experiments.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=NSniha&style=flat-square&color=0969da&label=Profile+Views" alt="Profile Views" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" />
 
-**Open to collaboration — let's build something great together.**
+<img src="https://komarev.com/ghpvc/?username=NSniha&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views" />
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobonita-saha-niha-04b501214/)
+**⭐ If you like my work, consider giving a star to my repositories!**
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer&text=&fontSize=1)
