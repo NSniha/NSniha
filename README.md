@@ -4,7 +4,6 @@
 
 
 
-# Nobonita Saha Niha
 
 ### Front-End Developer
 
@@ -17,9 +16,6 @@
 </p>
 
 <p>
-  <a href="https://github.com/NSniha">
-    <img src="https://img.shields.io/badge/GitHub-My%20Projects-144D3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -105,7 +101,9 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 ## 📬 Connect With Me
 
 <div align="center">
-
+ <a href="https://github.com/NSniha">
+    <img src="https://img.shields.io/badge/GitHub-My%20Projects-144D3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 <a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/">
   <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
