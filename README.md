@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Crafting+Pixel-Perfect+Interfaces;Turning+Designs+Into+Digital+Reality;Human+Creativity%2C+Robot+Precision+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Building+Modern+Web+Interfaces;Creating+Clean+and+Responsive+UI;Human+Creativity%2C+Robot+Precision+%F0%9F%A4%96" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** based in **Dhaka, Bangladesh**, specializing in modern UI design, responsive layouts, and polished digital experiences. I love transforming creative ideas into clean, functional, and beautiful web interfaces.
+I'm **Nobonita Saha Niha**, a dedicated **Front-End Developer** based in **Dhaka, Bangladesh**, with a strong focus on building modern, responsive, and visually refined web interfaces. I enjoy transforming ideas and design concepts into clean, functional, and user-centered digital experiences that perform smoothly across devices.
 
-- 🔭 Currently working on **front-end projects & landing pages**
-- 🌱 Continuously improving my skills in **modern CSS, JavaScript, and responsive design**
-- 🎯 Goal: Build interfaces that users *love* to interact with
+- 🔭 Currently working on **front-end websites, landing pages, and modern UI projects**
+- 🌱 Continuously strengthening my skills in **React.js, JavaScript, modern CSS, and responsive development**
+- 🎯 Goal: Build interfaces that combine **clarity, usability, and polished visual design**
 - ⚡ Motto: *"Human creativity, robot precision."*
 
 ---
@@ -30,6 +30,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** based in **Dhak
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -79,6 +80,6 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** based in **Dhak
 
 <img src="https://komarev.com/ghpvc/?username=NSniha&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views" />
 
-**⭐ If you like my work, consider giving a star to my repositories!**
+**⭐ Thank you for visiting my profile and exploring my work.**
 
 </div>
