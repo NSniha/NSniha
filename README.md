@@ -12,10 +12,6 @@
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=NSniha&style=for-the-badge&color=0F6B4B&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-<p>
    <a href="https://github.com/NSniha">
     <img src="https://img.shields.io/badge/GitHub-My%20Projects-144D3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
@@ -120,6 +116,9 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 <div align="center">
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=NSniha&style=for-the-badge&color=0F6B4B&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontColor=0F6B4B&fontSize=26&fontAlignY=42&desc=Building%20modern%20interfaces%20with%20clean%20design%20and%20responsive%20thinking&descColor=4F7465&descSize=14&descAlignY=68" width="100%" />
 
 </div>
