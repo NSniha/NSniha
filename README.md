@@ -1,6 +1,7 @@
 <div align="center">
 
-![1760148577427](https://github.com/user-attachments/assets/ba284e15-c03b-459b-9c37-96a977cb34ad)
+<img width="1536" height="1024" alt="ChatGPT Image Mar 18, 2026, 10_01_28 PM" src="https://github.com/user-attachments/assets/16193585-baba-4de7-9fe8-fe3fb39d7f28" />
+
 
 
 <br />
