@@ -41,22 +41,6 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** based in **Dhak
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**INTERIA Landing Page**](https://github.com/NSniha/INTERIA_Landing_Page) | A sleek, modern interior design landing page with polished UI | `HTML` `CSS` |
-| [**Webflow Template**](https://github.com/NSniha/Webflow-Template) | A professional Webflow-inspired responsive template | `HTML` `CSS` |
-| [**Template-01**](https://github.com/NSniha/Template-01) | A clean, reusable front-end web template | `HTML` `CSS` |
-
-<div align="center">
-  <a href="https://github.com/NSniha?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories%20→-161b22?style=for-the-badge&logoColor=white" alt="View All Repos"/>
-  </a>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
