@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" alt="Nobonita Saha Niha GitHub Banner" width="100%" />
+![Uploading ChatGPT Image Mar 18, 2026, 10_01_28 PM.png…]()
+
 
 <br />
 <br />
