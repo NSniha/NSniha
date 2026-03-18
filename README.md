@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="1536" height="1024" alt="ChatGPT Image Mar 18, 2026, 10_01_28 PM" src="https://github.com/user-attachments/assets/16193585-baba-4de7-9fe8-fe3fb39d7f28" />
-
-
+<img width="1600" height="420" alt="github-banner" src="https://github.com/user-attachments/assets/f0e93fa8-e84a-42c9-8fe8-efcba584f83a" />
 
 <br />
 <br />
