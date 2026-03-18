@@ -1,8 +1,6 @@
 <div align="center">
 
-![nobonita-readme-v2](https://github.com/user-attachments/assets/0e1e55ad-95a0-4dbd-9a76-4eb7891b7f80)
-
-
+![nobonita-readme-green (4)](https://github.com/user-attachments/assets/9c204b1f-3a7b-4e93-ab02-377cd7b57ff1)
 
 
 ### Front-End Developer
