@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=220&section=header&text=Nobonita%20Saha%20Niha&fontSize=42&fontColor=e6edf3&fontAlignY=35&desc=Front-End%20Developer%20%7C%20Dhaka,%20Bangladesh&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=210&section=header&text=Nobonita%20Saha%20Niha&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Front-End%20Developer%20%7C%20Dhaka,%20Bangladesh&descSize=16&descColor=d1d5db&descAlignY=62" width="100%" />
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=520&lines=Building+Modern+Web+Interfaces;Creating+Clean+and+Responsive+UI;Human+Creativity%2C+Robot+Precision+%F0%9F%A4%96" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&pause=1200&color=E5E7EB&center=true&vCenter=true&width=700&lines=Front-End+Developer;Building+modern+responsive+interfaces;Focused+on+clean+UI+and+polished+web+experiences" alt="Typing SVG" />
 </a>
 
 </div>
@@ -62,13 +62,19 @@ I'm **Nobonita Saha Niha**, a dedicated **Front-End Developer** based in **Dhaka
 
 ---
 
-## 🤝 Let's Connect
+## 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobonita-saha-niha-04b501214/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSniha)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+<a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/NSniha">
+  <img src="https://img.shields.io/badge/GitHub-View%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
 
@@ -76,10 +82,12 @@ I'm **Nobonita Saha Niha**, a dedicated **Front-End Developer** based in **Dhaka
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,25&height=110&section=footer" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=NSniha&style=flat-square&color=58a6ff&label=Profile+Views" alt="Profile Views" />
+### Thank you for visiting my profile
 
-**⭐ Thank you for visiting my profile and exploring my work.**
+Building modern, responsive, and thoughtful digital experiences with care and consistency.
+
+<img src="https://komarev.com/ghpvc/?username=NSniha&style=flat-square&color=6b7280&label=Profile+Views" alt="Profile Views" />
 
 </div>
