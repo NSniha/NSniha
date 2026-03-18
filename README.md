@@ -1,13 +1,366 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nobonita Saha Niha — README Header</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;1,700&family=Sora:wght@300;400;600&family=Caveat:wght@600&display=swap" rel="stylesheet">
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
 
-<img src="./assets/github-banner.png" alt="Nobonita Saha Niha GitHub Banner" width="100%" />
+  body {
+    background: #0a0a0a;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Sora', sans-serif;
+  }
 
-<br />
-<br />
+  .banner {
+    position: relative;
+    width: 900px;
+    height: 320px;
+    overflow: hidden;
+    border-radius: 16px;
+    background: linear-gradient(135deg, #0b1a12 0%, #0d2818 30%, #143d24 60%, #1a5c35 100%);
+    box-shadow: 0 30px 80px rgba(0, 0, 0, 0.6), 0 0 0 1px rgba(255,255,255,0.04);
+  }
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=500&size=24&pause=1800&color=0F6B4B&center=true&vCenter=true&width=900&lines=Front-End+Developer;Creating+Clean+%26+Modern+Interfaces;Responsive+Web+Experiences+with+Purpose" alt="Typing SVG" />
+  /* === ANIMATED MESH GRID === */
+  .mesh-grid {
+    position: absolute;
+    inset: 0;
+    overflow: hidden;
+    opacity: 0.12;
+  }
 
+  .mesh-grid svg {
+    width: 100%;
+    height: 100%;
+  }
+
+  /* === FLOATING ORB PARTICLES === */
+  .orb {
+    position: absolute;
+    border-radius: 50%;
+    filter: blur(40px);
+    animation: drift 8s ease-in-out infinite;
+  }
+
+  .orb-1 {
+    width: 200px; height: 200px;
+    background: radial-gradient(circle, rgba(34, 197, 94, 0.35), transparent 70%);
+    top: -40px; right: 80px;
+    animation-delay: 0s;
+    animation-duration: 10s;
+  }
+
+  .orb-2 {
+    width: 160px; height: 160px;
+    background: radial-gradient(circle, rgba(16, 185, 129, 0.25), transparent 70%);
+    bottom: -30px; left: 120px;
+    animation-delay: -3s;
+    animation-duration: 12s;
+  }
+
+  .orb-3 {
+    width: 120px; height: 120px;
+    background: radial-gradient(circle, rgba(52, 211, 153, 0.2), transparent 70%);
+    top: 60px; left: 350px;
+    animation-delay: -6s;
+    animation-duration: 9s;
+  }
+
+  @keyframes drift {
+    0%, 100% { transform: translate(0, 0) scale(1); }
+    25% { transform: translate(15px, -20px) scale(1.05); }
+    50% { transform: translate(-10px, 15px) scale(0.95); }
+    75% { transform: translate(20px, 10px) scale(1.03); }
+  }
+
+  /* === GEOMETRIC WIRE SHAPES === */
+  .geo-shapes {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+
+  .hex-ring {
+    position: absolute;
+    width: 180px; height: 180px;
+    top: -30px; right: -20px;
+    border: 1.5px solid rgba(34, 197, 94, 0.15);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    animation: spinSlow 25s linear infinite;
+  }
+
+  .hex-ring-2 {
+    position: absolute;
+    width: 100px; height: 100px;
+    bottom: 20px; left: 40px;
+    border: 1px solid rgba(52, 211, 153, 0.1);
+    clip-path: polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%);
+    animation: spinSlow 20s linear infinite reverse;
+  }
+
+  .diamond {
+    position: absolute;
+    width: 60px; height: 60px;
+    top: 40px; left: 260px;
+    border: 1px solid rgba(34, 197, 94, 0.12);
+    transform: rotate(45deg);
+    animation: pulse 4s ease-in-out infinite;
+  }
+
+  .cross {
+    position: absolute;
+    width: 20px; height: 20px;
+    bottom: 60px; right: 200px;
+  }
+  .cross::before, .cross::after {
+    content: '';
+    position: absolute;
+    background: rgba(34, 197, 94, 0.2);
+  }
+  .cross::before { width: 2px; height: 100%; left: 50%; transform: translateX(-50%); }
+  .cross::after { height: 2px; width: 100%; top: 50%; transform: translateY(-50%); }
+
+  @keyframes spinSlow {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  @keyframes pulse {
+    0%, 100% { opacity: 0.4; transform: rotate(45deg) scale(1); }
+    50% { opacity: 1; transform: rotate(45deg) scale(1.15); }
+  }
+
+  /* === DOT CONSTELLATION === */
+  .dots {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+  }
+
+  .dot {
+    position: absolute;
+    width: 3px; height: 3px;
+    border-radius: 50%;
+    background: rgba(52, 211, 153, 0.3);
+    animation: twinkle 3s ease-in-out infinite;
+  }
+
+  .dot:nth-child(1) { top: 30px; left: 80px; animation-delay: 0s; }
+  .dot:nth-child(2) { top: 90px; left: 180px; animation-delay: 0.5s; }
+  .dot:nth-child(3) { top: 50px; left: 400px; animation-delay: 1s; }
+  .dot:nth-child(4) { top: 200px; left: 60px; animation-delay: 1.5s; }
+  .dot:nth-child(5) { top: 260px; left: 300px; animation-delay: 0.8s; }
+  .dot:nth-child(6) { top: 140px; right: 100px; animation-delay: 2s; }
+  .dot:nth-child(7) { bottom: 40px; right: 300px; animation-delay: 1.2s; }
+  .dot:nth-child(8) { top: 180px; left: 500px; animation-delay: 0.3s; }
+
+  @keyframes twinkle {
+    0%, 100% { opacity: 0.2; transform: scale(1); }
+    50% { opacity: 1; transform: scale(1.8); }
+  }
+
+  /* === NOISE TEXTURE OVERLAY === */
+  .noise {
+    position: absolute;
+    inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.03'/%3E%3C/svg%3E");
+    pointer-events: none;
+    mix-blend-mode: overlay;
+  }
+
+  /* === SCAN LINE ACCENT === */
+  .scanline {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, rgba(34, 197, 94, 0.4), transparent);
+    animation: scan 4s ease-in-out infinite;
+  }
+
+  @keyframes scan {
+    0% { top: -2px; opacity: 0; }
+    10% { opacity: 1; }
+    90% { opacity: 1; }
+    100% { top: 318px; opacity: 0; }
+  }
+
+  /* === CONTENT === */
+  .content {
+    position: relative;
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding: 50px 60px;
+  }
+
+  .greeting {
+    font-family: 'Caveat', cursive;
+    font-size: 18px;
+    color: rgba(52, 211, 153, 0.8);
+    letter-spacing: 1px;
+    margin-bottom: 6px;
+    animation: fadeSlideIn 0.8s ease-out both;
+  }
+
+  .name {
+    font-family: 'Playfair Display', serif;
+    font-size: 46px;
+    font-weight: 700;
+    color: #f0fdf4;
+    line-height: 1.1;
+    letter-spacing: -0.5px;
+    animation: fadeSlideIn 0.8s ease-out 0.15s both;
+    text-shadow: 0 2px 30px rgba(0, 0, 0, 0.4);
+  }
+
+  .name span {
+    color: #34d399;
+  }
+
+  .role {
+    font-family: 'Sora', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    color: rgba(209, 250, 229, 0.6);
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    margin-top: 12px;
+    animation: fadeSlideIn 0.8s ease-out 0.3s both;
+  }
+
+  .tagline {
+    font-family: 'Playfair Display', serif;
+    font-style: italic;
+    font-size: 15px;
+    color: rgba(52, 211, 153, 0.5);
+    margin-top: 18px;
+    animation: fadeSlideIn 0.8s ease-out 0.45s both;
+  }
+
+  .accent-line {
+    width: 50px;
+    height: 2px;
+    background: linear-gradient(90deg, #34d399, transparent);
+    margin-top: 16px;
+    animation: fadeSlideIn 0.8s ease-out 0.55s both;
+  }
+
+  @keyframes fadeSlideIn {
+    from { opacity: 0; transform: translateY(15px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  /* === CORNER ACCENTS === */
+  .corner {
+    position: absolute;
+    width: 30px;
+    height: 30px;
+    z-index: 10;
+  }
+
+  .corner--tl { top: 16px; left: 16px; border-top: 1.5px solid rgba(52, 211, 153, 0.25); border-left: 1.5px solid rgba(52, 211, 153, 0.25); }
+  .corner--tr { top: 16px; right: 16px; border-top: 1.5px solid rgba(52, 211, 153, 0.25); border-right: 1.5px solid rgba(52, 211, 153, 0.25); }
+  .corner--bl { bottom: 16px; left: 16px; border-bottom: 1.5px solid rgba(52, 211, 153, 0.25); border-left: 1.5px solid rgba(52, 211, 153, 0.25); }
+  .corner--br { bottom: 16px; right: 16px; border-bottom: 1.5px solid rgba(52, 211, 153, 0.25); border-right: 1.5px solid rgba(52, 211, 153, 0.25); }
+
+  /* === SIDE DECORATION === */
+  .side-deco {
+    position: absolute;
+    right: 55px;
+    top: 50%;
+    transform: translateY(-50%);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    z-index: 10;
+  }
+
+  .side-deco .bar {
+    width: 3px;
+    border-radius: 2px;
+    background: rgba(34, 197, 94, 0.3);
+    animation: barGrow 2s ease-in-out infinite;
+  }
+
+  .side-deco .bar:nth-child(1) { height: 20px; animation-delay: 0s; }
+  .side-deco .bar:nth-child(2) { height: 35px; animation-delay: 0.2s; }
+  .side-deco .bar:nth-child(3) { height: 55px; animation-delay: 0.4s; }
+  .side-deco .bar:nth-child(4) { height: 40px; animation-delay: 0.6s; }
+  .side-deco .bar:nth-child(5) { height: 25px; animation-delay: 0.8s; }
+
+  @keyframes barGrow {
+    0%, 100% { opacity: 0.3; transform: scaleY(1); }
+    50% { opacity: 0.8; transform: scaleY(1.2); }
+  }
+</style>
+</head>
+<body>
+
+<div class="banner">
+  <!-- Background layers -->
+  <div class="orb orb-1"></div>
+  <div class="orb orb-2"></div>
+  <div class="orb orb-3"></div>
+
+  <div class="geo-shapes">
+    <div class="hex-ring"></div>
+    <div class="hex-ring-2"></div>
+    <div class="diamond"></div>
+    <div class="cross"></div>
+  </div>
+
+  <div class="dots">
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+    <div class="dot"></div>
+  </div>
+
+  <div class="noise"></div>
+  <div class="scanline"></div>
+
+  <!-- Corner accents -->
+  <div class="corner corner--tl"></div>
+  <div class="corner corner--tr"></div>
+  <div class="corner corner--bl"></div>
+  <div class="corner corner--br"></div>
+
+  <!-- Side equalizer bars -->
+  <div class="side-deco">
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+    <div class="bar"></div>
+  </div>
+
+  <!-- Main content -->
+  <div class="content">
+    <div class="greeting">Hello, I'm</div>
+    <h1 class="name">Nobonita Saha <span>Niha</span></h1>
+    <p class="role">Front-End Developer</p>
+    <p class="tagline">Think Beyond Boundaries</p>
+    <div class="accent-line"></div>
+  </div>
 </div>
+
+</body>
+</html>
+
 
 ---
 
