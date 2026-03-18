@@ -1,6 +1,7 @@
 <div align="center">
 
-![nobonita-readme-banner](https://github.com/user-attachments/assets/f55aa6a9-f515-4ddd-a416-a7705283ec02)
+![nobonita-readme-v2](https://github.com/user-attachments/assets/0e1e55ad-95a0-4dbd-9a76-4eb7891b7f80)
+
 
 
 # Nobonita Saha Niha
