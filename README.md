@@ -72,12 +72,12 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=NSniha&show_icons=true&theme=default&hide_border=true&bg_color=F7FBF8&title_color=0F6B4B&icon_color=0F6B4B&text_color=355B4C&ring_color=0F6B4B"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NSniha&theme=default"
     height="170"
     alt="GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSniha&layout=compact&theme=default&hide_border=true&bg_color=F7FBF8&title_color=0F6B4B&text_color=355B4C"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NSniha&theme=default"
     height="170"
     alt="Top Languages"
   />
