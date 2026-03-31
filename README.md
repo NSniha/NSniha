@@ -1,7 +1,7 @@
 <div align="center">
 
 ![nobonita-readme-green (4)](https://github.com/user-attachments/assets/2a88b232-9cd9-475c-bf42-417599ec9122)
-
+![Nobonita GitHub Overview](./assets/nobonita-readme-green.png)
 
 
 # **Front-End Developer**
