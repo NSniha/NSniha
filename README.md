@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="./assets/nobonita-readme-green.png" alt="Nobonita GitHub Overview Banner" width="100%" />
-</p>
+![Nobonita GitHub Overview](./assets/nobonita-readme-green.png)
 
 
 
