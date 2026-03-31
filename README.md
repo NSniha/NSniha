@@ -26,14 +26,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+##  About Me
 
 I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on building modern, responsive, and visually polished digital experiences. I enjoy transforming ideas into elegant user interfaces that feel clean, functional, and professional across every device.
 
-- 🔭 Currently working on **front-end websites, landing pages, and modern UI projects**
-- 🌱 Improving my expertise in **React.js, JavaScript, Tailwind CSS, and responsive development**
-- 🎯 Focused on building interfaces that combine **clarity, usability, and strong visual appeal**
-- ✨ Personal approach: **Design with purpose, build with precision**
+-  Currently working on **front-end websites, landing pages, and modern UI projects**
+-  Improving my expertise in **React.js, JavaScript, Tailwind CSS, and responsive development**
+-  Focused on building interfaces that combine **clarity, usability, and strong visual appeal**
+-  Personal approach: **Design with purpose, build with precision**
 
 ---
 
