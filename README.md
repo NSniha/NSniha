@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/MAIN-BRANCH/images/nobonita-readme-green.png" alt="Nobonita GitHub Overview Banner" />
-</p>
+![nobonita-readme-green (4)](https://github.com/user-attachments/assets/2a88b232-9cd9-475c-bf42-417599ec9122)
 
 
 
