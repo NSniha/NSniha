@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a88b232-9cd9-475c-bf42-417599ec9122" alt="Nobonita Readme Banner" width="900" />
+  <img src="https://github.com/user-attachments/assets/2a88b232-9cd9-475c-bf42-417599ec9122" alt="Nobonita Readme Banner" width="100%" />
 </p>
 
 
