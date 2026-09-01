@@ -1,8 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=200&section=header&text=Hi%2C%20I%27m%20Nobonita%20%F0%9F%91%8B&fontSize=38&fontColor=0F6B4B&fontAlignY=35&desc=Front-End%20Developer%20crafting%20clean%2C%20responsive%20interfaces&descColor=4F7465&descSize=16&descAlignY=55)
-
-[![Nobonita Readme Banner](https://private-user-images.githubusercontent.com/175350372/565707023-2a88b232-9cd9-475c-bf42-417599ec9122.gif)](https://private-user-images.githubusercontent.com/175350372/565707023-2a88b232-9cd9-475c-bf42-417599ec9122.gif)
+![nobonita-readme-green (4)](https://github.com/user-attachments/assets/2a88b232-9cd9-475c-bf42-417599ec9122)
 
 # **Front-End Developer**
 
