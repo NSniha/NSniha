@@ -73,7 +73,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NSniha&theme=default&hide_border=true&background=F7FBF8&stroke=B7D4C4&ring=0F6B4B&fire=0F6B4B&currStreakLabel=0F6B4B&sideNums=355B4C&currStreakNum=355B4C&dates=6A8B7B&sideLabels=355B4C)](https://github.com/NSniha)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NSniha&bg_color=F7FBF8&color=355B4C&line=0F6B4B&point=0F6B4B&area=true&hide_border=true)](https://github.com/NSniha)
+[![Activity Graph](https://ghchart.rshah.org/0F6B4B/NSniha)](https://github.com/NSniha)
 
 </div>
 
@@ -84,7 +84,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 <p align="left">
 <a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="https://discord.com/channels/1538823118192119848/1540367891583475762"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
-<a href="mailto:nobonitaniha3@gmail.com"><img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white" height="48" alt="Email" /></a>
+<a href="mailto:nobonitaniha3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 ---
