@@ -10,11 +10,11 @@ I build modern, responsive, and visually polished user interfaces with a strong 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobonita-saha-niha-04b501214/)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-3A7A63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nobonitaniha3@gmail.com)
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=3&width=1000" alt="" />
+
 </div>
 
----
-
-## About Me
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=55&text=About%20Me&fontSize=20&fontColor=0F6B4B&fontAlignY=60&desc=&section=header&width=1000" alt="About Me" />
 
 I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on building modern, responsive, and visually polished digital experiences. I enjoy transforming ideas into elegant user interfaces that feel clean, functional, and professional across every device.
 
@@ -23,9 +23,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 - Focused on building interfaces that combine **clarity, usability, and strong visual appeal**
 - Personal approach: **Design with purpose, build with precision**
 
----
-
-## 🚀 Current Focus
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=55&text=Current%20Focus&fontSize=20&fontColor=0F6B4B&fontAlignY=60&desc=&section=header&width=1000" alt="Current Focus" />
 
 - Responsive website development
 - Modern landing page UI
@@ -34,37 +32,36 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 - Tailwind CSS styling systems
 - Clean GitHub-ready front-end projects
 
----
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=55&text=Tech%20Stack&fontSize=20&fontColor=0F6B4B&fontAlignY=60&desc=&section=header&width=1000" alt="Tech Stack" />
 
-## 🛠️ Tech Stack
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td><img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML5, CSS3, JavaScript, TypeScript" /></td>
+</tr>
+<tr>
+<td><strong>CSS Frameworks & Libraries</strong></td>
+<td><img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Tailwind CSS, Bootstrap" /></td>
+</tr>
+<tr>
+<td><strong>JavaScript Frameworks & Libraries</strong></td>
+<td><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
+</tr>
+<tr>
+<td><strong>Deployment Platform</strong></td>
+<td><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></td>
+</tr>
+<tr>
+<td><strong>Design & Graphics</strong></td>
+<td><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></td>
+</tr>
+<tr>
+<td><strong>Tools & Technologies</strong></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,windows,notion,gitlab" alt="Git, GitHub, VS Code, Windows, Notion, GitLab" /></td>
+</tr>
+</table>
 
-**Languages:**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML5, CSS3, JavaScript, TypeScript" />
-
-**CSS Frameworks & Libraries:**
-
-<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Tailwind CSS, Bootstrap" />
-
-**JavaScript Frameworks & Libraries:**
-
-<img src="https://skillicons.dev/icons?i=react" alt="React" />
-
-**Deployment Platform:**
-
-<img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
-
-**Design & Graphics:**
-
-<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-
-**Tools & Technologies:**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,windows,notion,gitlab" alt="Git, GitHub, VS Code, Windows, Notion, GitLab" />
-
----
-
-## 📊 GitHub Stats
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=55&text=GitHub%20Stats&fontSize=20&fontColor=0F6B4B&fontAlignY=60&desc=&section=header&width=1000" alt="GitHub Stats" />
 
 <div align="center">
 
@@ -77,9 +74,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 </div>
 
----
-
-## 🔗 Follow Me on Socials
+## <img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=55&text=Follow%20Me%20on%20Socials&fontSize=20&fontColor=0F6B4B&fontAlignY=60&desc=&section=header&width=1000" alt="Follow Me on Socials" />
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
@@ -87,12 +82,10 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 <a href="mailto:nobonitaniha3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
----
-
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NSniha&style=for-the-badge&color=0F6B4B&label=PROFILE+VIEWS)](https://github.com/NSniha)
 
-![Thanks for visiting my profile](https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontColor=0F6B4B&fontSize=26&fontAlignY=42&desc=Building%20modern%20interfaces%20with%20clean%20design%20and%20responsive%20thinking&descColor=4F7465&descSize=14&descAlignY=68)
+![Thanks for visiting my profile](https://capsule-render.vercel.app/api?type=waving&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=150&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontColor=0F6B4B&fontSize=24&fontAlignY=68&desc=Building%20modern%20interfaces%20with%20clean%20design%20and%20responsive%20thinking&descColor=4F7465&descSize=14&descAlignY=85)
 
 </div>
