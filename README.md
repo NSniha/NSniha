@@ -62,31 +62,12 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 ## 📊 GitHub Stats
 
-<div align="center">
+[![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NSniha&theme=default)](https://github.com/NSniha)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NSniha&theme=default)](https://github.com/NSniha)
 
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NSniha&theme=default"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NSniha&theme=default"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NSniha&theme=default&hide_border=true&background=F7FBF8&stroke=B7D4C4&ring=0F6B4B&fire=0F6B4B&currStreakLabel=0F6B4B&sideNums=355B4C&currStreakNum=355B4C&dates=6A8B7B&sideLabels=355B4C)](https://github.com/NSniha)
 
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSniha&theme=default&hide_border=true&background=F7FBF8&stroke=B7D4C4&ring=0F6B4B&fire=0F6B4B&currStreakLabel=0F6B4B&sideNums=355B4C&currStreakNum=355B4C&dates=6A8B7B&sideLabels=355B4C" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NSniha&bg_color=F7FBF8&color=355B4C&line=0F6B4B&point=0F6B4B&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
-</div>
-
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NSniha&bg_color=F7FBF8&color=355B4C&line=0F6B4B&point=0F6B4B&area=true&hide_border=true)](https://github.com/NSniha)
 
 ---
 
@@ -100,28 +81,16 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 ---
 
-## 📬 Connect With Me
+## 🔗 Follow Me on Socials
 
-<div align="center">
-<a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/NSniha">
-  <img src="https://img.shields.io/badge/GitHub-My%20Projects-144D3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:nobonitasaha042@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-3A7A63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-</div>
+<p align="left">
+<a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+<a href="https://discord.com/channels/1538823118192119848/1540367891583475762"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+<a href="mailto:nobonitaniha3@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="48" alt="Email" /></a>
+</p>
 
 ---
 
-<div align="center">
+[![Profile Views](https://komarev.com/ghpvc/?username=NSniha&style=for-the-badge&color=0F6B4B&label=PROFILE+VIEWS)](https://github.com/NSniha)
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=NSniha&style=for-the-badge&color=0F6B4B&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontColor=0F6B4B&fontSize=26&fontAlignY=42&desc=Building%20modern%20interfaces%20with%20clean%20design%20and%20responsive%20thinking&descColor=4F7465&descSize=14&descAlignY=68" width="100%" />
-
-</div>
+![Thanks for visiting my profile](https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontColor=0F6B4B&fontSize=26&fontAlignY=42&desc=Building%20modern%20interfaces%20with%20clean%20design%20and%20responsive%20thinking&descColor=4F7465&descSize=14&descAlignY=68)
