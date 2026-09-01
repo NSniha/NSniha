@@ -1,6 +1,3 @@
-<div align="center">
-
-
 # **Front-End Developer**
 
 I build modern, responsive, and visually polished user interfaces with a strong focus on clarity, usability, and clean design.
