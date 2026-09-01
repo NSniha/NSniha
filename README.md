@@ -76,7 +76,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NSniha&theme=default&hide_border=true&background=F7FBF8&stroke=B7D4C4&ring=0F6B4B&fire=0F6B4B&currStreakLabel=0F6B4B&sideNums=355B4C&currStreakNum=355B4C&dates=6A8B7B&sideLabels=355B4C)](https://github.com/NSniha)
 
-<img src="https://github.pumbas.net/api/contributions/NSniha?colour=0F6B4B&bgColour=F7FBF8&dotColour=0F6B4B" alt="Activity Graph" width="600" />
+<img src="https://github.pumbas.net/api/contributions/NSniha?colour=0F6B4B&bgColour=F7FBF8&dotColour=0F6B4B" alt="Activity Graph" />
 
 </div>
 
