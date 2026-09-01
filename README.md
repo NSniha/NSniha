@@ -76,7 +76,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=NSniha&theme=default&hide_border=true&background=F7FBF8&stroke=B7D4C4&ring=0F6B4B&fire=0F6B4B&currStreakLabel=0F6B4B&sideNums=355B4C&currStreakNum=355B4C&dates=6A8B7B&sideLabels=355B4C)](https://github.com/NSniha)
 
-<img src="images/activity-graph.svg" alt="Activity Graph" width="900" />
+<img src="https://github.pumbas.net/api/contributions/NSniha?colour=0F6B4B&bgColour=F7FBF8&dotColour=0F6B4B&borderRadius=14" alt="Activity Graph" width="850" />
 
 </div>
 
@@ -99,3 +99,4 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 ![Thanks for visiting my profile](https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontColor=0F6B4B&fontSize=26&fontAlignY=42&desc=Building%20modern%20interfaces%20with%20clean%20design%20and%20responsive%20thinking&descColor=4F7465&descSize=14&descAlignY=68)
 
 </div>
+
