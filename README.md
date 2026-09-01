@@ -7,34 +7,22 @@
 
 # **Front-End Developer**
 
-<p>
-  I build modern, responsive, and visually polished user interfaces with a strong focus on clarity, usability, and clean design.
-</p>
+I build modern, responsive, and visually polished user interfaces with a strong focus on clarity, usability, and clean design.
 
-<p>
-   <a href="https://github.com/NSniha">
-    <img src="https://img.shields.io/badge/GitHub-My%20Projects-144D3B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nobonitasaha042@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-3A7A63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-144D3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSniha)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nobonita-saha-niha-04b501214/)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-3A7A63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nobonitasaha042@gmail.com)
 
 ---
 
-##  About Me
+## About Me
 
 I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on building modern, responsive, and visually polished digital experiences. I enjoy transforming ideas into elegant user interfaces that feel clean, functional, and professional across every device.
 
--  Currently working on **front-end websites, landing pages, and modern UI projects**
--  Improving my expertise in **React.js, JavaScript, Tailwind CSS, and responsive development**
--  Focused on building interfaces that combine **clarity, usability, and strong visual appeal**
--  Personal approach: **Design with purpose, build with precision**
+- Currently working on **front-end websites, landing pages, and modern UI projects**
+- Improving my expertise in **React.js, TypeScript, JavaScript, Tailwind CSS, and responsive development**
+- Focused on building interfaces that combine **clarity, usability, and strong visual appeal**
+- Personal approach: **Design with purpose, build with precision**
 
 ---
 
@@ -43,6 +31,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 - Responsive website development
 - Modern landing page UI
 - React.js component-based interfaces
+- Learning **TypeScript** for type-safe, scalable front-end code
 - Tailwind CSS styling systems
 - Clean GitHub-ready front-end projects
 
@@ -50,18 +39,9 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React.js](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,vscode,figma" alt="HTML5, CSS3, JavaScript, TypeScript, React, Tailwind CSS, Bootstrap, Git, GitHub, VS Code, Figma" />
+</p>
 
 </div>
 
