@@ -1,9 +1,5 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2a88b232-9cd9-475c-bf42-417599ec9122" alt="Nobonita Readme Banner" width="100%" />
-</p>
-
 
 # **Front-End Developer**
 
@@ -39,11 +35,29 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap,git,github,vscode,figma" alt="HTML5, CSS3, JavaScript, TypeScript, React, Tailwind CSS, Bootstrap, Git, GitHub, VS Code, Figma" />
-</p>
+**Languages:**
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML5, CSS3, JavaScript, TypeScript" />
+
+**CSS Frameworks & Libraries:**
+
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="Tailwind CSS, Bootstrap" />
+
+**JavaScript Frameworks & Libraries:**
+
+<img src="https://skillicons.dev/icons?i=react" alt="React" />
+
+**Deployment Platform:**
+
+<img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" />
+
+**Design & Graphics:**
+
+<img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+
+**Tools & Technologies:**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 
 ---
 
