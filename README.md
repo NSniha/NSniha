@@ -84,7 +84,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NSniha&bg_color=F7FBF8&color=355B4C&line=0F6B4B&point=0F6B4B&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 </div>
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NSniha&bg_color=F7FBF8&color=355B4C&line=0F6B4B&point=0F6B4B&area=true&hide_border=true)](https://github.com/NSniha)
+
 
 ---
 
