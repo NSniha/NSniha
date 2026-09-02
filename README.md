@@ -86,7 +86,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 <p align="left">
 <a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-<a href="https://discord.com/channels/1538823118192119848/1540367891583475762"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+<a href="https://discord.com/users/1516688148627849340"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
 <a href="mailto:nobonitaniha3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
