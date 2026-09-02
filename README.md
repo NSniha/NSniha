@@ -96,6 +96,6 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NSniha&style=for-the-badge&color=0F6B4B&label=PROFILE+VIEWS)](https://github.com/NSniha)
 
-![Thanks for visiting my profile](https://capsule-render.vercel.app/api?type=rect&color=0:EAF4EE,50:DCEFE4,100:CFE8D8&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontColor=0F6B4B&fontSize=26&fontAlignY=42&desc=Building%20modern%20interfaces%20with%20clean%20design%20and%20responsive%20thinking&descColor=4F7465&descSize=14&descAlignY=68)
+![Thanks for visiting my profile](https://capsule-render.vercel.app/api?type=rounded&color=F7FBF8&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontColor=0F6B4B&fontSize=26&fontAlignY=42&desc=Building%20modern%20interfaces%20with%20clean%20design%20and%20responsive%20thinking&descColor=4F7465&descSize=14&descAlignY=68)
 
 </div>
