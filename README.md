@@ -7,7 +7,7 @@
 I build modern, responsive, and visually polished user interfaces with a strong focus on clarity, usability, and clean design.
 
 [![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-144D3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSniha)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=3600)](https://www.linkedin.com/in/nobonita-saha-niha-04b501214/)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/nobonita-saha-niha-04b501214/)
 [![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-3A7A63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nobonitaniha3@gmail.com)
 
 </div>
@@ -96,8 +96,6 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 
 [![Profile Views](https://komarev.com/ghpvc/?username=NSniha&style=for-the-badge&color=0F6B4B&label=PROFILE+VIEWS)](https://github.com/NSniha)
 
-![Thanks for visiting my profile](images/thanks-banner.svg)
+![Thanks for visiting my profile](https://capsule-render.vercel.app/api?type=soft&color=0:F7FBF8,50:DCEFE4,100:CFE8D8&height=140&section=footer&text=Thanks%20for%20visiting%20my%20profile&fontColor=0F6B4B&fontSize=26&fontAlignY=42&desc=Building%20modern%20interfaces%20with%20clean%20design%20and%20responsive%20thinking&descColor=4F7465&descSize=14&descAlignY=68)
 
 </div>
-
-
