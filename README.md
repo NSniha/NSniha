@@ -8,7 +8,7 @@ I build modern, responsive, and visually polished user interfaces with a strong 
 
 [![GitHub](https://img.shields.io/badge/GitHub-My%20Projects-144D3B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NSniha)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-Professional%20Profile-0F6B4B?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/nobonita-saha-niha-04b501214/)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-3A7A63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nobonitaniha3@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-3A7A63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nobonitasaha042@gmail.com)
 
 </div>
 
@@ -87,7 +87,7 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 <p align="left">
 <a href="https://www.linkedin.com/in/nobonita-saha-niha-04b501214/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
 <a href="https://discord.com/users/1516688148627849340"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
-<a href="mailto:nobonitaniha3@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
+<a href="mailto:nobonitasaha042@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" /></a>
 </p>
 
 ---
