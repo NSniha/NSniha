@@ -74,9 +74,9 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 [![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NSniha&theme=default)](https://github.com/NSniha)
 [![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NSniha&theme=default)](https://github.com/NSniha)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NSniha&theme=default&hide_border=true&border_radius=10&background=F7FBF8&stroke=B7D4C4&ring=0F6B4B&fire=0F6B4B&currStreakLabel=0F6B4B&sideNums=355B4C&currStreakNum=355B4C&dates=6A8B7B&sideLabels=355B4C)](https://github.com/NSniha)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NSniha&theme=default&hide_border=true&border_radius=10&background=F7FBF8&stroke=B7D4C4&ring=0F6B4B&fire=0F6B4B&currStreakLabel=0F6B4B&sideNums=355B4C&currStreakNum=355B4C&dates=6A8B7B&sideLabels=355B4C&cache_seconds=1800)](https://github.com/NSniha)
 
-<img src="https://github.pumbas.net/api/contributions/NSniha?colour=0F6B4B&bgColour=F7FBF8&dotColour=0F6B4B&borderRadius=10" alt="Activity Graph" width="850" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NSniha&bg_color=F7FBF8&color=0F6B4B&line=0F6B4B&point=355B4C&area=true&area_color=CFE8D8&hide_border=true&radius=10" alt="Activity Graph" width="850" />
 
 </div>
 
