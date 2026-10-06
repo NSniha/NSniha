@@ -49,11 +49,11 @@ I'm **Nobonita Saha Niha**, a passionate **Front-End Developer** focused on buil
 </tr>
 <tr>
 <td><strong>JavaScript Frameworks & Libraries</strong></td>
-<td><img src="https://skillicons.dev/icons?i=react" alt="React" /></td>
+<td><img src="https://skillicons.dev/icons?i=react,nextjs" alt="React, Next.js" /></td>
 </tr>
 <tr>
 <td><strong>Deployment Platform</strong></td>
-<td><img src="https://skillicons.dev/icons?i=netlify" alt="Netlify" /></td>
+<td><img src="https://skillicons.dev/icons?i=netlify,vercel" alt="Netlify, Vercel" /></td>
 </tr>
 <tr>
 <td><strong>Design & Graphics</strong></td>
